@@ -2,7 +2,7 @@
 #include <ArduinoOTA.h>
 
 // Version identifier
-const char* VERSION = "2021.01.23+1";
+const char* VERSION = "2021.01.26+1";
 
 // Network settings
 const char* HOSTNAME = "p1";
